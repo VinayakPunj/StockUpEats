@@ -2,3 +2,4 @@ streamlit
 SQLAlchemy
 base64
 random
+json
