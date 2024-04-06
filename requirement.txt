@@ -1,4 +1,4 @@
 streamlit
-sqlalchemy
+SQLAlchemy
 base64
 random
